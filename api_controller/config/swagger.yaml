@@ -1,0 +1,14 @@
+swagger: '2.0'
+
+info:
+  version: 0.2.73
+  title: Controller API
+  contact:
+    email:
+
+schemes:
+  - http
+
+tags:
+  - name: Api Controller
+    description: 'Welcome to Controller API.'
